@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gausiya Ansari
-Skills: Python, Data analysis, Data visualization, Machine Learning, HTML, CSS, JS
-Email: gausiya1403@gmail.com
-{{/user}}
